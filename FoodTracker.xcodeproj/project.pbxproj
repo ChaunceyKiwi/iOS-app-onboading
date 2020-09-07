@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD2B819E25068DA9009AF959 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2B819D25068DA9009AF959 /* Meal.swift */; };
 		FD91F75B2504ED0A00485E46 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD91F75A2504ED0A00485E46 /* AppDelegate.swift */; };
 		FD91F75D2504ED0A00485E46 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD91F75C2504ED0A00485E46 /* SceneDelegate.swift */; };
 		FD91F75F2504ED0A00485E46 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD91F75E2504ED0A00485E46 /* ViewController.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FD2B819D25068DA9009AF959 /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 		FD91F7572504ED0A00485E46 /* FoodTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD91F75A2504ED0A00485E46 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FD91F75C2504ED0A00485E46 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				FD91F75C2504ED0A00485E46 /* SceneDelegate.swift */,
 				FD91F75E2504ED0A00485E46 /* ViewController.swift */,
 				FD91F77C2505643200485E46 /* RatingControl.swift */,
+				FD2B819D25068DA9009AF959 /* Meal.swift */,
 				FD91F7602504ED0A00485E46 /* Main.storyboard */,
 				FD91F7632504ED0A00485E46 /* Assets.xcassets */,
 				FD91F7652504ED0A00485E46 /* LaunchScreen.storyboard */,
@@ -203,6 +206,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD2B819E25068DA9009AF959 /* Meal.swift in Sources */,
 				FD91F77D2505643200485E46 /* RatingControl.swift in Sources */,
 				FD91F75F2504ED0A00485E46 /* ViewController.swift in Sources */,
 				FD91F75B2504ED0A00485E46 /* AppDelegate.swift in Sources */,
